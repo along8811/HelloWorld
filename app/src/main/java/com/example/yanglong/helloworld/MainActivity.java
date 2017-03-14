@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i(DEBUG_TAG,"In the OnCreate() method of the MainActivity.Class");
+        Log.i(DEBUG_TAG,"Test Github");
     }
 }
